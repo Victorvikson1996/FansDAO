@@ -15,7 +15,7 @@ Any one can mint a membership NFT, this let's you access our member page. It's t
 
 ## Deployments 💻
 
-
+https://fans-dao.vercel.app/
 ## For development 🧑‍💻
 
 ### Scripts
