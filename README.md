@@ -1,7 +1,7 @@
 # FansDAO 
 
 ## What is this?
- I made this DAO to democratize the decision making process- I've since had steak 😋
+A Football FansDAO where fans can make there own decision . I made this DAO to democratize the decision making process- I've since had steak 😋
 
 lol. i wanted to try out thirdweb- this was a random use case ;)
 
